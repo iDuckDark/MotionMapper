@@ -1,0 +1,251 @@
+2019-11-16 23:41:26.528928-0500 MotionMapper[3716:1032218] Can't find keyplane that supports type 5 for keyboard iPhone-PortraitChoco-PhonePad; using 25781_PortraitChoco_iPhone-Complex-Pad_Default
+2019-11-16 23:41:26.553092-0500 MotionMapper[3716:1032218] Can't find keyplane that supports type 5 for keyboard iPhone-PortraitChoco-PhonePad; using 25781_PortraitChoco_iPhone-Complex-Pad_Default
+Configuring audio session
+Answer Call & Start Motion
+Init Motion
+Start DeviceMotion
+Start Gyroscope
+Start Accelerometer
+Optional(QuaternionX 0.327855 QuaternionY -0.081423 QuaternionZ 0.000000 QuaternionW 0.941213 UserAccelX -0.006655 UserAccelY 0.018881 UserAccelZ -0.018627 RotationRateX 0.028351 RotationRateY -0.074565 RotationRateZ -0.011748 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107758.971716)
+Optional(x -0.181107 y -0.573730 z -0.790573 @ 107759.014665)
+Optional(x 0.354187 y -10.041916 z -6.115448 @ 107759.014665)
+Starting audio
+Optional(QuaternionX 0.330581 QuaternionY -0.091340 QuaternionZ -0.085134 QuaternionW 0.935481 UserAccelX 0.025923 UserAccelY 0.008858 UserAccelZ 0.008048 RotationRateX 0.020510 RotationRateY -0.030319 RotationRateZ -0.274307 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107759.478185)
+Optional(x 0.164749 y -3.506546 z -14.674210 @ 107759.514589)
+Optional(x -0.076813 y -0.623535 z -0.771042 @ 107759.518492)
+Optional(QuaternionX 0.340417 QuaternionY -0.072382 QuaternionZ -0.107100 QuaternionW 0.931347 UserAccelX -0.010739 UserAccelY 0.018676 UserAccelZ -0.023831 RotationRateX 0.066583 RotationRateY 0.130896 RotationRateZ -0.256500 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107759.982013)
+Optional(x 6.171722 y 6.762573 z -8.112152 @ 107760.014667)
+Optional(x -0.031281 y -0.681198 z -0.779999 @ 107760.022320)
+Optional(QuaternionX 0.349702 QuaternionY -0.063424 QuaternionZ -0.118475 QuaternionW 0.927173 UserAccelX 0.038196 UserAccelY -0.030930 UserAccelZ -0.017140 RotationRateX -0.003947 RotationRateY -0.011599 RotationRateZ 0.068230 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107760.485841)
+Optional(x 1.165710 y -4.627213 z 10.272171 @ 107760.514744)
+Optional(x 0.006332 y -0.685043 z -0.762573 @ 107760.526147)
+Optional(QuaternionX 0.369121 QuaternionY -0.104215 QuaternionZ -0.082895 QuaternionW 0.919792 UserAccelX 0.018639 UserAccelY -0.000974 UserAccelZ 0.014555 RotationRateX 0.045837 RotationRateY 0.495950 RotationRateZ 0.341253 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107760.989672)
+Optional(x -13.341385 y 11.147751 z 12.378433 @ 107761.014825)
+Optional(x -0.132019 y -0.684738 z -0.718628 @ 107761.029978)
+Optional(QuaternionX 0.334506 QuaternionY -0.081480 QuaternionZ -0.029407 QuaternionW 0.938404 UserAccelX 0.017801 UserAccelY 0.007076 UserAccelZ -0.023993 RotationRateX -0.016333 RotationRateY 0.087437 RotationRateZ 0.151469 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107761.493500)
+Optional(x 0.868042 y 2.770035 z 7.600815 @ 107761.514903)
+Optional(x -0.138275 y -0.616119 z -0.759644 @ 107761.533806)
+Optional(x 19.625717 y 12.271057 z -17.373138 @ 107762.014825)
+Optional(QuaternionX 0.339777 QuaternionY -0.077487 QuaternionZ -0.016459 QuaternionW 0.937164 UserAccelX -0.087262 UserAccelY 0.116789 UserAccelZ -0.056854 RotationRateX 0.234951 RotationRateY 0.185483 RotationRateZ -0.232413 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107761.997325)
+Optional(x -0.221161 y -0.524582 z -0.793259 @ 107762.037632)
+Optional(x 5.947647 y 0.205139 z 0.090591 @ 107762.514904)
+Optional(QuaternionX 0.425726 QuaternionY -0.002227 QuaternionZ -0.044515 QuaternionW 0.903754 UserAccelX -0.002399 UserAccelY 0.003128 UserAccelZ 0.005807 RotationRateX 0.161806 RotationRateY -0.003112 RotationRateZ 0.011901 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107762.501154)
+Optional(x 0.052765 y -0.782928 z -0.644638 @ 107762.541461)
+Optional(x 12.279755 y -24.193558 z 8.054474 @ 107763.014984)
+Optional(QuaternionX 0.386333 QuaternionY -0.103866 QuaternionZ -0.079611 QuaternionW 0.913029 UserAccelX -0.017738 UserAccelY -0.103804 UserAccelZ 0.041872 RotationRateX 0.287890 RotationRateY -0.700578 RotationRateZ -0.010765 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107763.004984)
+Optional(x -0.217087 y -0.765320 z -0.651825 @ 107763.045290)
+Optional(x 13.081589 y 6.654861 z 8.894318 @ 107763.515063)
+Optional(QuaternionX 0.367367 QuaternionY -0.101827 QuaternionZ -0.037748 QuaternionW 0.923714 UserAccelX 0.018294 UserAccelY -0.029969 UserAccelZ -0.009633 RotationRateX 0.154341 RotationRateY 0.036929 RotationRateZ 0.109340 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107763.508813)
+Optional(x -0.166443 y -0.694016 z -0.708435 @ 107763.549120)
+Optional(x -5.418625 y 10.834885 z 11.401230 @ 107764.015143)
+Optional(QuaternionX 0.332681 QuaternionY -0.100989 QuaternionZ -0.033099 QuaternionW 0.937032 UserAccelX -0.026322 UserAccelY 0.013282 UserAccelZ -0.032720 RotationRateX -0.069511 RotationRateY 0.270137 RotationRateZ 0.230055 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107764.012643)
+Optional(x -0.213730 y -0.613144 z -0.746582 @ 107764.052949)
+Optional(x 58.312790 y 34.884338 z 7.898590 @ 107764.515069)
+Optional(QuaternionX 0.272144 QuaternionY -0.022152 QuaternionZ -0.046362 QuaternionW 0.960884 UserAccelX -0.021879 UserAccelY 0.113413 UserAccelZ -0.096219 RotationRateX 1.003204 RotationRateY 0.638946 RotationRateZ 0.158237 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107764.516473)
+Optional(x -0.016037 y -0.501587 z -0.961136 @ 107764.556779)
+Optional(x -26.333008 y -9.715714 z 23.429153 @ 107765.015151)
+Optional(QuaternionX 0.263480 QuaternionY -0.102471 QuaternionZ -0.091157 QuaternionW 0.954866 UserAccelX 0.012051 UserAccelY 0.013220 UserAccelZ -0.004723 RotationRateX -0.467433 RotationRateY -0.164365 RotationRateZ 0.399171 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107765.020304)
+Optional(x -0.178406 y -0.494019 z -0.926437 @ 107765.060610)
+Optional(x 31.316772 y 11.707520 z 12.869965 @ 107765.515231)
+Optional(QuaternionX 0.330292 QuaternionY -0.126596 QuaternionZ -0.032233 QuaternionW 0.934795 UserAccelX -0.049121 UserAccelY -0.020097 UserAccelZ 0.087073 RotationRateX 0.496773 RotationRateY 0.260304 RotationRateZ 0.234769 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107765.524134)
+Optional(x -0.257965 y -0.607330 z -0.735306 @ 107765.564441)
+Optional(x 0.073608 y 4.406723 z 0.173645 @ 107766.015310)
+Optional(QuaternionX 0.325969 QuaternionY -0.097245 QuaternionZ -0.037087 QuaternionW 0.939634 UserAccelX -0.012359 UserAccelY -0.002459 UserAccelZ -0.000192 RotationRateX 0.015861 RotationRateY 0.106347 RotationRateZ 0.002421 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107766.027963)
+Optional(x -0.168350 y -0.604355 z -0.785812 @ 107766.068270)
+Optional(x -4.680145 y 9.079117 z -4.117126 @ 107766.515390)
+Optional(QuaternionX 0.332104 QuaternionY -0.076299 QuaternionZ -0.032583 QuaternionW 0.939587 UserAccelX 0.041597 UserAccelY -0.021750 UserAccelZ -0.045782 RotationRateX 0.014489 RotationRateY 0.053713 RotationRateZ -0.128466 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107766.531793)
+Optional(x -0.107712 y -0.661514 z -0.766281 @ 107766.572100)
+Optional(x 26.458984 y 26.842560 z -9.434937 @ 107767.015471)
+Optional(QuaternionX 0.413250 QuaternionY 0.029721 QuaternionZ -0.103031 QuaternionW 0.904282 UserAccelX 0.125651 UserAccelY -0.133478 UserAccelZ 0.032813 RotationRateX 0.345881 RotationRateY 0.315014 RotationRateZ -0.140881 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107767.035624)
+Optional(x 0.237885 y -0.836426 z -0.579407 @ 107767.075930)
+Optional(x -39.565643 y -57.304245 z 9.237793 @ 107767.515437)
+Optional(x 0.166367 y -0.778030 z -0.637466 @ 107767.541974)
+Optional(QuaternionX 0.397057 QuaternionY -0.003975 QuaternionZ -0.115360 QuaternionW 0.910507 UserAccelX 0.071269 UserAccelY -0.048562 UserAccelZ 0.038635 RotationRateX -0.770287 RotationRateY -1.108513 RotationRateZ 0.222900 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107767.551974)
+Optional(x 5.817535 y 1.318878 z 0.441345 @ 107768.015499)
+Optional(x -0.099777 y -0.684830 z -0.718246 @ 107768.045805)
+Optional(QuaternionX 0.352625 QuaternionY -0.081725 QuaternionZ -0.083503 QuaternionW 0.928442 UserAccelX -0.004594 UserAccelY -0.019666 UserAccelZ 0.022409 RotationRateX 0.041726 RotationRateY 0.053576 RotationRateZ 0.025228 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107768.055805)
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Optional(x 2.938065 y 1.738434 z 0.879990 @ 107768.515580)
+Optional(x -0.097534 y -0.678848 z -0.725647 @ 107768.549637)
+Optional(QuaternionX 0.363827 QuaternionY -0.071364 QuaternionZ -0.056910 QuaternionW 0.926984 UserAccelX -0.000505 UserAccelY -0.000098 UserAccelZ -0.002066 RotationRateX -0.004193 RotationRateY 0.011324 RotationRateZ -0.019570 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107768.559637)
+Optional(x 0.480850 y -0.124069 z -0.930954 @ 107769.015663)
+Optional(x -0.105667 y -0.671097 z -0.727692 @ 107769.053470)
+Optional(QuaternionX 0.363093 QuaternionY -0.074469 QuaternionZ -0.058873 QuaternionW 0.926904 UserAccelX -0.006355 UserAccelY 0.005144 UserAccelZ -0.005904 RotationRateX 0.026986 RotationRateY 0.016229 RotationRateZ -0.067907 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107769.063470)
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Optional(x 0.016190 y 3.296814 z -1.552536 @ 107769.515591)
+Optional(x -0.095856 y -0.680786 z -0.724747 @ 107769.557301)
+Optional(QuaternionX 0.363722 QuaternionY -0.072134 QuaternionZ -0.065192 QuaternionW 0.926419 UserAccelX -0.007276 UserAccelY -0.002591 UserAccelZ 0.001923 RotationRateX -0.060832 RotationRateY -0.027039 RotationRateZ -0.105902 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107769.567301)
+Optional(x -1.440994 y -2.283020 z 0.348877 @ 107770.015673)
+Optional(x -0.087830 y -0.685837 z -0.711044 @ 107770.061133)
+Optional(QuaternionX 0.362760 QuaternionY -0.070333 QuaternionZ -0.067998 QuaternionW 0.926734 UserAccelX -0.002685 UserAccelY 0.000408 UserAccelZ 0.015156 RotationRateX -0.036045 RotationRateY 0.020990 RotationRateZ -0.017982 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107770.071133)
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Optional(x 1.166794 y 4.299622 z -7.366318 @ 107770.515754)
+Optional(x -0.090637 y -0.630875 z -0.746094 @ 107770.564964)
+Optional(QuaternionX 0.363287 QuaternionY -0.056990 QuaternionZ -0.075394 QuaternionW 0.926871 UserAccelX -0.031655 UserAccelY 0.048076 UserAccelZ -0.018589 RotationRateX -0.008961 RotationRateY 0.044628 RotationRateZ -0.276491 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107770.574964)
+Optional(x 3.302292 y -2.740280 z -1.925476 @ 107771.015768)
+Optional(x 0.114182 y -0.728745 z -0.639847 @ 107771.069978)
+Optional(QuaternionX 0.402881 QuaternionY 0.004273 QuaternionZ -0.120830 QuaternionW 0.907231 UserAccelX 0.058033 UserAccelY -0.015064 UserAccelZ -0.044602 RotationRateX 0.096423 RotationRateY 0.004463 RotationRateZ 0.007669 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107771.090131)
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Optional(x 10.257324 y 15.567749 z 1.077515 @ 107771.515868)
+Optional(x 0.122345 y -0.749817 z -0.677017 @ 107771.566251)
+Optional(QuaternionX 0.406515 QuaternionY 0.007724 QuaternionZ -0.115423 QuaternionW 0.906291 UserAccelX 0.002754 UserAccelY -0.006049 UserAccelZ -0.002608 RotationRateX -0.024959 RotationRateY -0.024122 RotationRateZ -0.026226 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107771.616635)
+Optional(x 0.009476 y 0.085022 z 0.838211 @ 107772.015920)
+Optional(x 0.096832 y -0.741074 z -0.660110 @ 107772.066304)
+Optional(QuaternionX 0.404410 QuaternionY 0.002242 QuaternionZ -0.116025 QuaternionW 0.907186 UserAccelX 0.005803 UserAccelY -0.007344 UserAccelZ -0.002351 RotationRateX -0.036355 RotationRateY -0.025986 RotationRateZ 0.000498 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107772.136840)
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Error reading from:  device.txt
+Error reading from:  gyro.txt
+Error reading from:  accelerometer.txt
+Error reading from:  location.txt
+Optional(x -6.655991 y -7.035553 z 2.461594 @ 107772.515925)
+Optional(x 0.096527 y -0.739899 z -0.662170 @ 107772.577768)
+Optional(QuaternionX 0.384576 QuaternionY -0.018572 QuaternionZ -0.119032 QuaternionW 0.915198 UserAccelX -0.002505 UserAccelY 0.006287 UserAccelZ 0.006036 RotationRateX -0.224820 RotationRateY -0.291579 RotationRateZ 0.077436 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107772.658381)
+Optional(x 1.761719 y 2.407486 z 0.591812 @ 107773.015986)
+Optional(x 0.033173 y -0.693176 z -0.727661 @ 107773.081599)
+Optional(QuaternionX 0.368416 QuaternionY -0.038531 QuaternionZ -0.123811 QuaternionW 0.920574 UserAccelX 0.030708 UserAccelY -0.041936 UserAccelZ 0.004518 RotationRateX -0.139204 RotationRateY -0.212826 RotationRateZ -0.001948 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107773.162212)
+Optional(x 5.659653 y 5.673523 z -2.193161 @ 107773.516067)
+Optional(x -0.035934 y -0.681686 z -0.781250 @ 107773.585430)
+Optional(QuaternionX 0.344375 QuaternionY -0.077405 QuaternionZ -0.119824 QuaternionW 0.927932 UserAccelX -0.004215 UserAccelY -0.016505 UserAccelZ 0.028098 RotationRateX 0.017430 RotationRateY 0.010801 RotationRateZ -0.004679 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107773.666043)
+Optional(x 5.658264 y 6.394623 z -0.317490 @ 107774.016147)
+Optional(x -0.097885 y -0.618454 z -0.725906 @ 107774.089260)
+Optional(QuaternionX 0.373061 QuaternionY -0.043892 QuaternionZ -0.113733 QuaternionW 0.919763 UserAccelX -0.064970 UserAccelY 0.067192 UserAccelZ 0.009044 RotationRateX 0.666763 RotationRateY 1.134952 RotationRateZ -0.267080 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107774.169873)
+Optional(x 4.597260 y 5.089447 z -1.683197 @ 107774.516228)
+Optional(x 0.158096 y -0.744629 z -0.631210 @ 107774.593091)
+Optional(QuaternionX 0.408549 QuaternionY 0.010288 QuaternionZ -0.117791 QuaternionW 0.905046 UserAccelX 0.049987 UserAccelY -0.046532 UserAccelZ -0.022724 RotationRateX -0.329785 RotationRateY -0.596524 RotationRateZ 0.097790 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107774.692521)
+Optional(x 4.960373 y 6.020325 z 23.732864 @ 107775.016280)
+Optional(x -0.108917 y -0.628815 z -0.774353 @ 107775.093144)
+Optional(QuaternionX 0.344669 QuaternionY -0.087997 QuaternionZ -0.082144 QuaternionW 0.930974 UserAccelX -0.037022 UserAccelY 0.034443 UserAccelZ -0.002010 RotationRateX 0.146478 RotationRateY 0.083598 RotationRateZ 0.216876 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107775.203910)
+Optional(x 0.222977 y 0.297958 z 1.611633 @ 107775.516362)
+Optional(x -0.115768 y -0.668106 z -0.738281 @ 107775.596975)
+Optional(QuaternionX 0.347041 QuaternionY -0.087547 QuaternionZ -0.069946 QuaternionW 0.931132 UserAccelX -0.007020 UserAccelY 0.007172 UserAccelZ 0.003747 RotationRateX -0.035886 RotationRateY -0.020945 RotationRateZ 0.023563 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107775.707741)
+Optional(x 0.983444 y 0.172287 z 0.180862 @ 107776.016290)
+Optional(x -0.115967 y -0.658920 z -0.741440 @ 107776.100806)
+Optional(QuaternionX 0.345816 QuaternionY -0.087138 QuaternionZ -0.071846 QuaternionW 0.931481 UserAccelX -0.001553 UserAccelY 0.009329 UserAccelZ -0.004377 RotationRateX -0.044830 RotationRateY -0.030631 RotationRateZ -0.042204 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107776.211572)
+Optional(x 1.299026 y 0.887589 z 0.877792 @ 107776.516370)
+Optional(x -0.109253 y -0.658981 z -0.741486 @ 107776.604637)
+Optional(QuaternionX 0.348309 QuaternionY -0.083222 QuaternionZ -0.076338 QuaternionW 0.930552 UserAccelX 0.005453 UserAccelY -0.005304 UserAccelZ -0.002170 RotationRateX 0.002185 RotationRateY -0.016343 RotationRateZ -0.045096 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107776.715403)
+Optional(x -1.806061 y 0.178757 z 1.882919 @ 107777.016451)
+Optional(x -0.100601 y -0.657211 z -0.747437 @ 107777.108468)
+Optional(QuaternionX 0.351506 QuaternionY -0.091964 QuaternionZ -0.075165 QuaternionW 0.928621 UserAccelX 0.090476 UserAccelY 0.005506 UserAccelZ -0.192967 RotationRateX 0.373433 RotationRateY -0.785203 RotationRateZ 0.088653 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107777.219234)
+Optional(x -5.789551 y 14.165802 z 6.293732 @ 107777.516532)
+Optional(x -0.176544 y -0.654861 z -0.744308 @ 107777.612298)
+Optional(QuaternionX 0.337884 QuaternionY -0.100597 QuaternionZ -0.047314 QuaternionW 0.934599 UserAccelX 0.012278 UserAccelY -0.029199 UserAccelZ -0.006016 RotationRateX -0.049346 RotationRateY 0.076142 RotationRateZ 0.049409 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107777.723065)
+Optional(x 0.317413 y 8.384186 z 9.170181 @ 107778.016612)
+Optional(x -0.124634 y -0.674789 z -0.699890 @ 107778.116128)
+Optional(QuaternionX 0.325574 QuaternionY -0.082846 QuaternionZ -0.011442 QuaternionW 0.941811 UserAccelX -0.006842 UserAccelY 0.009330 UserAccelZ -0.037459 RotationRateX -0.152137 RotationRateY 0.023771 RotationRateZ 0.162926 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107778.226894)
+Optional(x -4.979706 y -4.218185 z -5.978668 @ 107778.516539)
+Optional(x -0.153641 y -0.568588 z -0.845123 @ 107778.619959)
+Optional(QuaternionX 0.321632 QuaternionY -0.081582 QuaternionZ -0.037475 QuaternionW 0.942599 UserAccelX -0.072580 UserAccelY 0.108374 UserAccelZ -0.011249 RotationRateX 0.219259 RotationRateY -0.554845 RotationRateZ -0.779804 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107778.730725)
+Optional(x -2.816589 y 6.623123 z -27.331680 @ 107779.016625)
+Optional(x 0.122986 y -0.792282 z -0.727570 @ 107779.123794)
+Optional(QuaternionX 0.365482 QuaternionY -0.057517 QuaternionZ -0.146992 QuaternionW 0.917337 UserAccelX -0.030668 UserAccelY 0.051396 UserAccelZ 0.013768 RotationRateX 0.110317 RotationRateY 0.081116 RotationRateZ 0.000912 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107779.234561)
+Optional(x 1.901199 y -1.008926 z 2.233978 @ 107779.516707)
+Optional(x -0.038315 y -0.643509 z -0.740906 @ 107779.627627)
+Optional(QuaternionX 0.344785 QuaternionY -0.067374 QuaternionZ -0.146871 QuaternionW 0.924669 UserAccelX 0.000476 UserAccelY 0.007948 UserAccelZ -0.005436 RotationRateX -0.147341 RotationRateY -0.108380 RotationRateZ 0.048498 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107779.738393)
+Optional(x -1.531464 y 1.404419 z 5.949341 @ 107780.016786)
+Optional(x -0.018585 y -0.661484 z -0.735504 @ 107780.131456)
+Optional(QuaternionX 0.336528 QuaternionY -0.068964 QuaternionZ -0.125779 QuaternionW 0.930684 UserAccelX 0.092692 UserAccelY -0.039989 UserAccelZ 0.012082 RotationRateX 0.017995 RotationRateY 0.135820 RotationRateZ 0.430114 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107780.242222)
+Optional(x 12.907364 y -18.293396 z 2.672897 @ 107780.516869)
+Optional(x -0.071716 y -0.596451 z -0.794922 @ 107780.635289)
+Optional(QuaternionX 0.333175 QuaternionY -0.069250 QuaternionZ -0.058947 QuaternionW 0.938469 UserAccelX 0.016235 UserAccelY -0.023111 UserAccelZ -0.001589 RotationRateX -0.143381 RotationRateY 0.060030 RotationRateZ 0.307655 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107780.746056)
+Optional(x -0.380112 y 6.291901 z 2.646866 @ 107781.016799)
+Optional(x -0.102844 y -0.623962 z -0.787262 @ 107781.139122)
+Optional(QuaternionX 0.334260 QuaternionY -0.053879 QuaternionZ -0.022535 QuaternionW 0.940670 UserAccelX -0.037955 UserAccelY 0.042287 UserAccelZ -0.011855 RotationRateX 0.149589 RotationRateY 0.187420 RotationRateZ -0.013736 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107781.249889)
+Optional(x 21.963959 y 19.609512 z 1.069122 @ 107781.516883)
+Optional(x -0.040848 y -0.637222 z -0.753036 @ 107781.642956)
+Optional(QuaternionX 0.346213 QuaternionY -0.030670 QuaternionZ -0.016296 QuaternionW 0.937513 UserAccelX 0.028034 UserAccelY -0.015578 UserAccelZ 0.001132 RotationRateX -0.000382 RotationRateY -0.023985 RotationRateZ 0.064284 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107781.753723)
+Optional(x -24.775604 y -38.915756 z -15.753357 @ 107782.016967)
+Optional(x -0.103180 y -0.668396 z -0.716370 @ 107782.146791)
+Optional(QuaternionX 0.334230 QuaternionY -0.062112 QuaternionZ -0.042374 QuaternionW 0.939488 UserAccelX 0.018068 UserAccelY 0.003120 UserAccelZ -0.013647 RotationRateX -0.095988 RotationRateY -0.015164 RotationRateZ 0.010822 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107782.257558)
+Optional(x 3.996948 y 60.305405 z 18.684814 @ 107782.517053)
+Optional(x 0.187134 y -0.677643 z -0.881073 @ 107782.650627)
+Optional(QuaternionX 0.376921 QuaternionY -0.033976 QuaternionZ -0.018646 QuaternionW 0.925435 UserAccelX 0.018676 UserAccelY -0.014326 UserAccelZ 0.051449 RotationRateX -0.783952 RotationRateY -0.825526 RotationRateZ -0.065422 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107782.761394)
+Optional(x -7.258789 y 6.927521 z -11.821243 @ 107783.017140)
+Optional(x -0.063583 y -0.590576 z -0.788925 @ 107783.154465)
+Optional(QuaternionX 0.351805 QuaternionY -0.052890 QuaternionZ -0.080876 QuaternionW 0.931072 UserAccelX -0.069440 UserAccelY 0.064060 UserAccelZ 0.003804 RotationRateX 0.249638 RotationRateY -0.653876 RotationRateZ -0.700327 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107783.265232)
+Optional(x 6.541641 y 2.300568 z -2.401001 @ 107783.517227)
+Optional(x 0.004089 y -0.717590 z -0.707199 @ 107783.658302)
+Optional(QuaternionX 0.392651 QuaternionY -0.051576 QuaternionZ -0.116081 QuaternionW 0.910873 UserAccelX -0.024987 UserAccelY 0.003258 UserAccelZ 0.015300 RotationRateX 0.056748 RotationRateY 0.034971 RotationRateZ -0.094713 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107783.769070)
+Optional(x 11.714783 y 12.552994 z -0.755341 @ 107784.017165)
+Optional(x -0.004395 y -0.750061 z -0.660492 @ 107784.162143)
+Optional(QuaternionX 0.407787 QuaternionY -0.042960 QuaternionZ -0.113921 QuaternionW 0.904924 UserAccelX -0.019493 UserAccelY 0.015459 UserAccelZ 0.015054 RotationRateX 0.040169 RotationRateY -0.030105 RotationRateZ -0.035933 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 107784.272910)
+Optional(x 1.211929 y 0.845581 z 1.025101 @ 107784.517253)
+Optional(x -0.001312 y -0.745926 z -0.646149 @ 107784.665981)
+Requested transaction successfully
+Stopping audio
+End Call & Stop Motion
+2019-11-16 23:42:08.356234-0500 MotionMapper[3716:1032218] [Snapshotting] Snapshotting a view (0x12c817a00, UIKeyboardImpl) that is not in a visible window requires afterScreenUpdates:YES.
+2019-11-16 23:42:08.918194-0500 MotionMapper[3716:1032218] Can't end BackgroundTask: no background task exists with identifier 3 (0x3), or it may have already been ended. Break in UIApplicationEndBackgroundTaskError() to debug.
+2019-11-16 23:42:23.662597-0500 MotionMapper[3716:1032218] [Snapshotting] Snapshotting a view (0x12e0aa800, UIKeyboardImpl) that has not been rendered at least once requires afterScreenUpdates:YES.
+2019-11-16 23:42:24.050656-0500 MotionMapper[3716:1032218] Can't end BackgroundTask: no background task exists with identifier 9 (0x9), or it may have already been ended. Break in UIApplicationEndBackgroundTaskError() to debug.
