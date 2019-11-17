@@ -63,7 +63,7 @@ class Motion: NSObject {
     
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         guard let trueData: CLLocationCoordinate2D = manager.location?.coordinate else { return }
-//        print("locations = \(trueData.latitude) \(trueData.longitude)")
+        print("locations = \(trueData.latitude) \(trueData.longitude)")
         let string = "location= Latitude: \(trueData.latitude) , Longtitude\(trueData.longitude)"
         self.locationFile.writeToFile(string: string)
     }
@@ -73,14 +73,12 @@ class Motion: NSObject {
         motion.gyroUpdateInterval = self.updateFrequency
         motion.startGyroUpdates(to: OperationQueue.current!) {
             (data, error) in
-//            print(data as Any)
+            print(data as Any)
             if let trueData =  data {
                 let x = trueData.rotationRate.x
                 let y = trueData.rotationRate.y
                 let string = "Rotation= Latitude: \(x) , Longtitude\(y)"
                 self.locationFile.writeToFile(string: string)
-                let current = self.locationFile.readFile()
-                print("Line 80 ", current)
             }
         }
         return
@@ -92,7 +90,7 @@ class Motion: NSObject {
         motion.deviceMotionUpdateInterval  = self.updateFrequency
         motion.startDeviceMotionUpdates(to: OperationQueue.current!) {
             (data, error) in
-//            print(data as Any)
+            print(data as Any)
             if let trueData =  data {
                 let x = trueData.attitude.pitch
                 let y = trueData.attitude.roll
@@ -115,7 +113,7 @@ class Motion: NSObject {
         motion.gyroUpdateInterval = self.updateFrequency
         motion.startGyroUpdates(to: OperationQueue.current!) {
             (data, error) in
-//            print(data as Any)
+            print(data as Any)
             if let trueData =  data {
                 let x = trueData.rotationRate.x
                 let y = trueData.rotationRate.y
@@ -133,7 +131,7 @@ class Motion: NSObject {
         motion.accelerometerUpdateInterval = self.updateFrequency
         motion.startAccelerometerUpdates(to: OperationQueue.current!) {
             (data, error) in
-//            print(data as Any)
+            print(data as Any)
             if let trueData =  data {
                 let x = "X: \(trueData.acceleration.x)"
                 let y = "Y: \(trueData.acceleration.y)"
