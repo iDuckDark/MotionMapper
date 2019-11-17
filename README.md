@@ -5,7 +5,7 @@ Motion Mapper for mobile devices
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-![Alt Text](Sample/sample.gif)
+![Alt Text](Sample/MotionMapper.gif)
 
 # Swift 5, Xcode 11 
 ### Core libraries used:
