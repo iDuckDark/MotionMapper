@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MotionMapper.xcodeproj">
+      location = "self:/Users/idarkduck/Desktop/Materials_CallKit 2/Hotline-finished/MotionMapper.xcodeproj">
    </FileRef>
 </Workspace>

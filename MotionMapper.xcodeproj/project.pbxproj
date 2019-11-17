@@ -3,31 +3,89 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		592C1B292380830A00B98ED9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592C1B282380830A00B98ED9 /* AppDelegate.swift */; };
-		592C1B2B2380830A00B98ED9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592C1B2A2380830A00B98ED9 /* SceneDelegate.swift */; };
-		592C1B2D2380830A00B98ED9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592C1B2C2380830A00B98ED9 /* ViewController.swift */; };
-		592C1B302380830A00B98ED9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 592C1B2E2380830A00B98ED9 /* Main.storyboard */; };
-		592C1B322380830C00B98ED9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 592C1B312380830C00B98ED9 /* Assets.xcassets */; };
-		592C1B352380830C00B98ED9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 592C1B332380830C00B98ED9 /* LaunchScreen.storyboard */; };
+		4394405F22141A1B00683D37 /* ProviderDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4394405E22141A1B00683D37 /* ProviderDelegate.swift */; };
+		439440672214201900683D37 /* CallDirectoryHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439440662214201900683D37 /* CallDirectoryHandler.swift */; };
+		4394406B2214201900683D37 /* MotionMapperDirectory.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 439440642214201900683D37 /* MotionMapperDirectory.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		592C1B3F2380992D00B98ED9 /* MotionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592C1B3E2380992D00B98ED9 /* MotionViewController.swift */; };
+		592C1B4123809C4200B98ED9 /* DiscoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592C1B4023809C4200B98ED9 /* DiscoverViewController.swift */; };
+		592C1B482380B68E00B98ED9 /* Motion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592C1B472380B68E00B98ED9 /* Motion.swift */; };
+		592C1B4A2380BB3500B98ED9 /* MotionFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592C1B492380BB3500B98ED9 /* MotionFileManager.swift */; };
+		592C1B4C2380C78400B98ED9 /* MyMotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592C1B4B2380C78400B98ED9 /* MyMotion.swift */; };
+		592C1B4E2380CA9F00B98ED9 /* LogsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592C1B4D2380CA9F00B98ED9 /* LogsViewController.swift */; };
+		BB24136D1E16E45600D8285D /* CallTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB24136C1E16E45600D8285D /* CallTableViewCell.swift */; };
+		BB5C8C8F1E0AE13300029D74 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5C8C8E1E0AE13300029D74 /* AppDelegate.swift */; };
+		BB5C8C941E0AE13300029D74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB5C8C921E0AE13300029D74 /* Main.storyboard */; };
+		BB5C8C961E0AE13300029D74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB5C8C951E0AE13300029D74 /* Assets.xcassets */; };
+		BB5C8C991E0AE13300029D74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB5C8C971E0AE13300029D74 /* LaunchScreen.storyboard */; };
+		BB5C8CA51E0AE47500029D74 /* CallsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5C8CA41E0AE47500029D74 /* CallsViewController.swift */; };
+		BB5C8CA71E0AF37000029D74 /* NewCallViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5C8CA61E0AF37000029D74 /* NewCallViewController.swift */; };
+		BB5C8CB21E0AFD5800029D74 /* Call.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5C8CB11E0AFD5800029D74 /* Call.swift */; };
+		BB5C8CB61E0AFD7C00029D74 /* CallManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5C8CB51E0AFD7C00029D74 /* CallManager.swift */; };
+		BB6E171E1E19572400A2AF91 /* Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6E171D1E19572400A2AF91 /* Audio.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		439440692214201900683D37 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BB5C8C831E0AE13300029D74 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 439440632214201900683D37;
+			remoteInfo = HotlineDirectory;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		BB6E171B1E171C5B00A2AF91 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				4394406B2214201900683D37 /* MotionMapperDirectory.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
-		592C1B252380830A00B98ED9 /* MotionMapper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MotionMapper.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		592C1B282380830A00B98ED9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		592C1B2A2380830A00B98ED9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		592C1B2C2380830A00B98ED9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		592C1B2F2380830A00B98ED9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		592C1B312380830C00B98ED9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		592C1B342380830C00B98ED9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		592C1B362380830C00B98ED9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4394405E22141A1B00683D37 /* ProviderDelegate.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = ProviderDelegate.swift; sourceTree = "<group>"; tabWidth = 2; };
+		439440642214201900683D37 /* MotionMapperDirectory.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = MotionMapperDirectory.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		439440662214201900683D37 /* CallDirectoryHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallDirectoryHandler.swift; sourceTree = "<group>"; };
+		439440682214201900683D37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		592C1B3E2380992D00B98ED9 /* MotionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionViewController.swift; sourceTree = "<group>"; };
+		592C1B4023809C4200B98ED9 /* DiscoverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverViewController.swift; sourceTree = "<group>"; };
+		592C1B472380B68E00B98ED9 /* Motion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Motion.swift; sourceTree = "<group>"; };
+		592C1B492380BB3500B98ED9 /* MotionFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionFileManager.swift; sourceTree = "<group>"; };
+		592C1B4B2380C78400B98ED9 /* MyMotion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMotion.swift; sourceTree = "<group>"; };
+		592C1B4D2380CA9F00B98ED9 /* LogsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogsViewController.swift; sourceTree = "<group>"; };
+		BB24136C1E16E45600D8285D /* CallTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = CallTableViewCell.swift; sourceTree = "<group>"; tabWidth = 2; };
+		BB5C8C8B1E0AE13300029D74 /* MotionMapper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MotionMapper.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB5C8C8E1E0AE13300029D74 /* AppDelegate.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; tabWidth = 2; };
+		BB5C8C931E0AE13300029D74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BB5C8C951E0AE13300029D74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BB5C8C981E0AE13300029D74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BB5C8C9A1E0AE13300029D74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB5C8CA41E0AE47500029D74 /* CallsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = CallsViewController.swift; sourceTree = "<group>"; tabWidth = 2; };
+		BB5C8CA61E0AF37000029D74 /* NewCallViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = NewCallViewController.swift; sourceTree = "<group>"; tabWidth = 2; };
+		BB5C8CB11E0AFD5800029D74 /* Call.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = Call.swift; sourceTree = "<group>"; tabWidth = 2; };
+		BB5C8CB51E0AFD7C00029D74 /* CallManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = CallManager.swift; sourceTree = "<group>"; tabWidth = 2; };
+		BB6E171D1E19572400A2AF91 /* Audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = Audio.swift; sourceTree = "<group>"; tabWidth = 2; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		592C1B222380830A00B98ED9 /* Frameworks */ = {
+		439440612214201900683D37 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BB5C8C881E0AE13300029D74 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,128 +95,282 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		592C1B1C2380830A00B98ED9 = {
+		439440652214201900683D37 /* MotionMapperDirectory */ = {
 			isa = PBXGroup;
 			children = (
-				592C1B272380830A00B98ED9 /* MotionMapper */,
-				592C1B262380830A00B98ED9 /* Products */,
+				439440662214201900683D37 /* CallDirectoryHandler.swift */,
+				439440682214201900683D37 /* Info.plist */,
+			);
+			path = MotionMapperDirectory;
+			sourceTree = "<group>";
+		};
+		592C1B442380B5C200B98ED9 /* Motion */ = {
+			isa = PBXGroup;
+			children = (
+				592C1B472380B68E00B98ED9 /* Motion.swift */,
+				592C1B492380BB3500B98ED9 /* MotionFileManager.swift */,
+			);
+			name = Motion;
+			sourceTree = "<group>";
+		};
+		BB24136B1E16E43B00D8285D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				BB24136C1E16E45600D8285D /* CallTableViewCell.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		BB5C8C821E0AE13300029D74 = {
+			isa = PBXGroup;
+			children = (
+				BB5C8C8D1E0AE13300029D74 /* MotionMapper */,
+				439440652214201900683D37 /* MotionMapperDirectory */,
+				BB5C8C8C1E0AE13300029D74 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		592C1B262380830A00B98ED9 /* Products */ = {
+		BB5C8C8C1E0AE13300029D74 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				592C1B252380830A00B98ED9 /* MotionMapper.app */,
+				BB5C8C8B1E0AE13300029D74 /* MotionMapper.app */,
+				439440642214201900683D37 /* MotionMapperDirectory.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		592C1B272380830A00B98ED9 /* MotionMapper */ = {
+		BB5C8C8D1E0AE13300029D74 /* MotionMapper */ = {
 			isa = PBXGroup;
 			children = (
-				592C1B282380830A00B98ED9 /* AppDelegate.swift */,
-				592C1B2A2380830A00B98ED9 /* SceneDelegate.swift */,
-				592C1B2C2380830A00B98ED9 /* ViewController.swift */,
-				592C1B2E2380830A00B98ED9 /* Main.storyboard */,
-				592C1B312380830C00B98ED9 /* Assets.xcassets */,
-				592C1B332380830C00B98ED9 /* LaunchScreen.storyboard */,
-				592C1B362380830C00B98ED9 /* Info.plist */,
+				592C1B4B2380C78400B98ED9 /* MyMotion.swift */,
+				592C1B442380B5C200B98ED9 /* Motion */,
+				BB6E171C1E19571400A2AF91 /* Audio */,
+				BB5C8CB01E0AFD3D00029D74 /* Call Management */,
+				BB5C8CA21E0AE21F00029D74 /* App */,
+				BB5C8CA01E0AE1EB00029D74 /* UI */,
+				BB5C8CA11E0AE20000029D74 /* Supporting Files */,
 			);
 			path = MotionMapper;
+			sourceTree = "<group>";
+		};
+		BB5C8CA01E0AE1EB00029D74 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				BB24136B1E16E43B00D8285D /* Views */,
+				BB5C8CA31E0AE24900029D74 /* View Controllers */,
+				BB5C8C921E0AE13300029D74 /* Main.storyboard */,
+				BB5C8C971E0AE13300029D74 /* LaunchScreen.storyboard */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		BB5C8CA11E0AE20000029D74 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BB5C8C951E0AE13300029D74 /* Assets.xcassets */,
+				BB5C8C9A1E0AE13300029D74 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BB5C8CA21E0AE21F00029D74 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				BB5C8C8E1E0AE13300029D74 /* AppDelegate.swift */,
+				4394405E22141A1B00683D37 /* ProviderDelegate.swift */,
+			);
+			name = App;
+			sourceTree = "<group>";
+		};
+		BB5C8CA31E0AE24900029D74 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				BB5C8CA41E0AE47500029D74 /* CallsViewController.swift */,
+				BB5C8CA61E0AF37000029D74 /* NewCallViewController.swift */,
+				592C1B3E2380992D00B98ED9 /* MotionViewController.swift */,
+				592C1B4023809C4200B98ED9 /* DiscoverViewController.swift */,
+				592C1B4D2380CA9F00B98ED9 /* LogsViewController.swift */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		BB5C8CB01E0AFD3D00029D74 /* Call Management */ = {
+			isa = PBXGroup;
+			children = (
+				BB5C8CB11E0AFD5800029D74 /* Call.swift */,
+				BB5C8CB51E0AFD7C00029D74 /* CallManager.swift */,
+			);
+			name = "Call Management";
+			sourceTree = "<group>";
+		};
+		BB6E171C1E19571400A2AF91 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				BB6E171D1E19572400A2AF91 /* Audio.swift */,
+			);
+			name = Audio;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		592C1B242380830A00B98ED9 /* MotionMapper */ = {
+		439440632214201900683D37 /* MotionMapperDirectory */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 592C1B392380830C00B98ED9 /* Build configuration list for PBXNativeTarget "MotionMapper" */;
+			buildConfigurationList = 4394406C2214201900683D37 /* Build configuration list for PBXNativeTarget "MotionMapperDirectory" */;
 			buildPhases = (
-				592C1B212380830A00B98ED9 /* Sources */,
-				592C1B222380830A00B98ED9 /* Frameworks */,
-				592C1B232380830A00B98ED9 /* Resources */,
+				439440602214201900683D37 /* Sources */,
+				439440612214201900683D37 /* Frameworks */,
+				439440622214201900683D37 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
+			name = MotionMapperDirectory;
+			productName = HotlineDirectory;
+			productReference = 439440642214201900683D37 /* MotionMapperDirectory.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		BB5C8C8A1E0AE13300029D74 /* MotionMapper */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BB5C8C9D1E0AE13300029D74 /* Build configuration list for PBXNativeTarget "MotionMapper" */;
+			buildPhases = (
+				BB5C8C871E0AE13300029D74 /* Sources */,
+				BB5C8C881E0AE13300029D74 /* Frameworks */,
+				BB5C8C891E0AE13300029D74 /* Resources */,
+				BB6E171B1E171C5B00A2AF91 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4394406A2214201900683D37 /* PBXTargetDependency */,
+			);
 			name = MotionMapper;
-			productName = MotionMapper;
-			productReference = 592C1B252380830A00B98ED9 /* MotionMapper.app */;
+			productName = Hotline;
+			productReference = BB5C8C8B1E0AE13300029D74 /* MotionMapper.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		592C1B1D2380830A00B98ED9 /* Project object */ = {
+		BB5C8C831E0AE13300029D74 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1120;
+				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1120;
-				ORGANIZATIONNAME = iDarkDuck;
+				ORGANIZATIONNAME = "Ray Wenderlich";
 				TargetAttributes = {
-					592C1B242380830A00B98ED9 = {
-						CreatedOnToolsVersion = 11.2.1;
+					439440632214201900683D37 = {
+						CreatedOnToolsVersion = 10.1;
+						DevelopmentTeam = C66WPHYLGP;
+						LastSwiftMigration = 1120;
+						ProvisioningStyle = Automatic;
+					};
+					BB5C8C8A1E0AE13300029D74 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = C66WPHYLGP;
+						LastSwiftMigration = 1120;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
-			buildConfigurationList = 592C1B202380830A00B98ED9 /* Build configuration list for PBXProject "MotionMapper" */;
-			compatibilityVersion = "Xcode 9.3";
+			buildConfigurationList = BB5C8C861E0AE13300029D74 /* Build configuration list for PBXProject "MotionMapper" */;
+			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 592C1B1C2380830A00B98ED9;
-			productRefGroup = 592C1B262380830A00B98ED9 /* Products */;
+			mainGroup = BB5C8C821E0AE13300029D74;
+			productRefGroup = BB5C8C8C1E0AE13300029D74 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				592C1B242380830A00B98ED9 /* MotionMapper */,
+				BB5C8C8A1E0AE13300029D74 /* MotionMapper */,
+				439440632214201900683D37 /* MotionMapperDirectory */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		592C1B232380830A00B98ED9 /* Resources */ = {
+		439440622214201900683D37 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				592C1B352380830C00B98ED9 /* LaunchScreen.storyboard in Resources */,
-				592C1B322380830C00B98ED9 /* Assets.xcassets in Resources */,
-				592C1B302380830A00B98ED9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BB5C8C891E0AE13300029D74 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BB5C8C991E0AE13300029D74 /* LaunchScreen.storyboard in Resources */,
+				BB5C8C961E0AE13300029D74 /* Assets.xcassets in Resources */,
+				BB5C8C941E0AE13300029D74 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		592C1B212380830A00B98ED9 /* Sources */ = {
+		439440602214201900683D37 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				592C1B2D2380830A00B98ED9 /* ViewController.swift in Sources */,
-				592C1B292380830A00B98ED9 /* AppDelegate.swift in Sources */,
-				592C1B2B2380830A00B98ED9 /* SceneDelegate.swift in Sources */,
+				439440672214201900683D37 /* CallDirectoryHandler.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BB5C8C871E0AE13300029D74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BB24136D1E16E45600D8285D /* CallTableViewCell.swift in Sources */,
+				BB5C8CB21E0AFD5800029D74 /* Call.swift in Sources */,
+				592C1B4C2380C78400B98ED9 /* MyMotion.swift in Sources */,
+				BB5C8CA51E0AE47500029D74 /* CallsViewController.swift in Sources */,
+				592C1B4A2380BB3500B98ED9 /* MotionFileManager.swift in Sources */,
+				BB5C8CB61E0AFD7C00029D74 /* CallManager.swift in Sources */,
+				592C1B482380B68E00B98ED9 /* Motion.swift in Sources */,
+				BB5C8CA71E0AF37000029D74 /* NewCallViewController.swift in Sources */,
+				BB6E171E1E19572400A2AF91 /* Audio.swift in Sources */,
+				BB5C8C8F1E0AE13300029D74 /* AppDelegate.swift in Sources */,
+				4394405F22141A1B00683D37 /* ProviderDelegate.swift in Sources */,
+				592C1B4E2380CA9F00B98ED9 /* LogsViewController.swift in Sources */,
+				592C1B3F2380992D00B98ED9 /* MotionViewController.swift in Sources */,
+				592C1B4123809C4200B98ED9 /* DiscoverViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		4394406A2214201900683D37 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 439440632214201900683D37 /* MotionMapperDirectory */;
+			targetProxy = 439440692214201900683D37 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin PBXVariantGroup section */
-		592C1B2E2380830A00B98ED9 /* Main.storyboard */ = {
+		BB5C8C921E0AE13300029D74 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				592C1B2F2380830A00B98ED9 /* Base */,
+				BB5C8C931E0AE13300029D74 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		592C1B332380830C00B98ED9 /* LaunchScreen.storyboard */ = {
+		BB5C8C971E0AE13300029D74 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				592C1B342380830C00B98ED9 /* Base */,
+				BB5C8C981E0AE13300029D74 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,17 +378,63 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		592C1B372380830C00B98ED9 /* Debug */ = {
+		4394406D2214201900683D37 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C66WPHYLGP;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				INFOPLIST_FILE = MotionMapperDirectory/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iDarkDuck.MotionMapper.MotionMapperDirectory;
+				PRODUCT_NAME = MotionMapperDirectory;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		4394406E2214201900683D37 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C66WPHYLGP;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				INFOPLIST_FILE = MotionMapperDirectory/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iDarkDuck.MotionMapper.MotionMapperDirectory;
+				PRODUCT_NAME = MotionMapperDirectory;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		BB5C8C9B1E0AE13300029D74 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
@@ -195,14 +453,14 @@
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -216,27 +474,27 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		592C1B382380830C00B98ED9 /* Release */ = {
+		BB5C8C9C1E0AE13300029D74 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
@@ -255,14 +513,14 @@
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -270,74 +528,84 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		592C1B3A2380830C00B98ED9 /* Debug */ = {
+		BB5C8C9E1E0AE13300029D74 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = C66WPHYLGP;
 				INFOPLIST_FILE = MotionMapper/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = iDarkDuck.MotionMapper;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.iDarkDuck.MotionMapper;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		592C1B3B2380830C00B98ED9 /* Release */ = {
+		BB5C8C9F1E0AE13300029D74 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = C66WPHYLGP;
 				INFOPLIST_FILE = MotionMapper/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = iDarkDuck.MotionMapper;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.iDarkDuck.MotionMapper;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		592C1B202380830A00B98ED9 /* Build configuration list for PBXProject "MotionMapper" */ = {
+		4394406C2214201900683D37 /* Build configuration list for PBXNativeTarget "MotionMapperDirectory" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				592C1B372380830C00B98ED9 /* Debug */,
-				592C1B382380830C00B98ED9 /* Release */,
+				4394406D2214201900683D37 /* Debug */,
+				4394406E2214201900683D37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		592C1B392380830C00B98ED9 /* Build configuration list for PBXNativeTarget "MotionMapper" */ = {
+		BB5C8C861E0AE13300029D74 /* Build configuration list for PBXProject "MotionMapper" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				592C1B3A2380830C00B98ED9 /* Debug */,
-				592C1B3B2380830C00B98ED9 /* Release */,
+				BB5C8C9B1E0AE13300029D74 /* Debug */,
+				BB5C8C9C1E0AE13300029D74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BB5C8C9D1E0AE13300029D74 /* Build configuration list for PBXNativeTarget "MotionMapper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BB5C8C9E1E0AE13300029D74 /* Debug */,
+				BB5C8C9F1E0AE13300029D74 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 592C1B1D2380830A00B98ED9 /* Project object */;
+	rootObject = BB5C8C831E0AE13300029D74 /* Project object */;
 }
