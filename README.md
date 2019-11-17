@@ -8,7 +8,7 @@ Motion Mapper for mobile devices
 ### Core libraries used:
 1. CoreMotion
 2. CoreLocation
-3. MqpKit
+3. MapKit
 4. Timer
 5. FileManager
 
