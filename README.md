@@ -4,6 +4,9 @@ Motion Mapper for mobile devices
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+
+![Alt Text](Sample/sample.gif)
+
 # Swift 5, Xcode 11 
 ### Core libraries used:
 1. CoreMotion
